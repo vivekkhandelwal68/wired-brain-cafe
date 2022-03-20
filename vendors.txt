@@ -1,3 +1,8 @@
 Vivek|32|5000
 Abhay|56|15000
-Neena|89|12000
+Neena|89|11600
+Ajay|32|60000
+Vijay|76|45000
+Mohan|89|36000
+Sohan|56|9000
+Jhon|78|9030
